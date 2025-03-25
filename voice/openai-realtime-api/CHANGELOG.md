@@ -1,5 +1,13 @@
 # @mastra/voice-openai-realtime
 
+## 0.1.0-alpha.3
+
+### Patch Changes
+
+- a4686e8: Realtime event queue
+- Updated dependencies [a4686e8]
+  - @mastra/core@0.7.0-alpha.3
+
 ## 0.1.0-alpha.2
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @mastra/core
 
+## 0.7.0-alpha.3
+
+### Patch Changes
+
+- a4686e8: Realtime event queue
+
 ## 0.7.0-alpha.2
 
 ### Patch Changes
